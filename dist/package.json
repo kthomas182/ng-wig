@@ -1,0 +1,23 @@
+{
+  "name": "@essilor-usa/ng-wig",
+  "version": "3.0.17",
+  "description": "Modified version of ng-wig",
+  "main": "./ng-wig.js",
+  "keywords": [
+    "angularjs",
+    "ng-wig"
+  ],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kthomas182/ng-wig"
+  },
+  "bugs": {
+    "url": "https://optuitive.atlassian.net/projects/EOA/core/issues/"
+  },
+  "author": "Essilor USA - FED",
+  "contributors": [
+    "Kyle Thomas <kyle.thomas@essilorusa.com>"
+  ]
+}
