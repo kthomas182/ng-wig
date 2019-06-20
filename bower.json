@@ -1,10 +1,10 @@
 {
-  "name": "ngWig",
+  "name": "eoa-ngWig",
   "version": "3.0.17",
   "devDependencies": {
     "angular": "1.6.0"
   },
-  "homepage": "https://github.com/stevermeister/ngWig",
+  "homepage": "https://github.com/kthomas182/ng-wig",
   "authors": [
     "Stepan Suvorov <stevermeister@gmail.com>"
   ],
